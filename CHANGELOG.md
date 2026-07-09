@@ -7,6 +7,8 @@ notes on each release — do not edit by hand.
 
 ## Unreleased
 
+## v1.0.3 — 2026-07-09
+
 ## v1.0.2 — 2026-07-07
 
 - Refresh the bundled scanner from the monorepo.
